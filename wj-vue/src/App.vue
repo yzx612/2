@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'Appp'
+  name: 'App'
 }
 </script>
 
